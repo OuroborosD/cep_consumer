@@ -1,6 +1,15 @@
 # cep_consumer
 
-A new Flutter application.
+aplicativo  mostra  o cep do numero digitado.
+
+![](https://github.com/OuroborosD/cep_consumer/blob/master/images/readme.PNG)
+
+- [x] Consumir uma api
+
+
+#### 7 projeto de flutter do curso Desenvolvimento Android e IOS com Flutter 2020 -Crie 15 Apps
+
+
 
 ## Getting Started
 
