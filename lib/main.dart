@@ -45,7 +45,12 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('mostrar cep'),
+        title: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              Text('mostrar cep')
+            ],
+        ),
       ),
       body: Container(
         child: Align(
